@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678760495 source:c:\users\james\onedrive\desktop\udemy_c\enumassignment\enumassignment\main.c
+	<stdio.h>
+	<stdlib.h>
+

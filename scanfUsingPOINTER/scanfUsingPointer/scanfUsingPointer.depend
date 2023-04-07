@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680556240 source:c:\users\james\onedrive\desktop\udemy_c\scanfusingpointer\scanfusingpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680481505 source:c:\users\james\onedrive\desktop\udemy_c\analyzingstring\analyzingstring\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

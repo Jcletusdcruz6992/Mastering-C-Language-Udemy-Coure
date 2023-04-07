@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680547927 source:c:\users\james\onedrive\desktop\udemy_c\usingpointers\usingpointers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+
